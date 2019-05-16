@@ -1,0 +1,8 @@
+/home/michel/Dropbox/Semestre5/ProgramacaoVisual/projetos/Sistema2/src/main/java/br/edu/ifpr/bsi/sistema/dao/FabricanteDAO.java
+/home/michel/Dropbox/Semestre5/ProgramacaoVisual/projetos/Sistema2/src/main/java/br/edu/ifpr/bsi/sistema/dao/EstadoDAO.java
+/home/michel/Dropbox/Semestre5/ProgramacaoVisual/projetos/Sistema2/src/main/java/br/edu/ifpr/bsi/sistema/domain/GenericDomain.java
+/home/michel/Dropbox/Semestre5/ProgramacaoVisual/projetos/Sistema2/src/main/java/br/edu/ifpr/bsi/sistema/domain/Fabricante.java
+/home/michel/Dropbox/Semestre5/ProgramacaoVisual/projetos/Sistema2/src/main/java/br/edu/ifpr/bsi/sistema/bean/EstadoBean.java
+/home/michel/Dropbox/Semestre5/ProgramacaoVisual/projetos/Sistema2/src/main/java/br/edu/ifpr/bsi/sistema/domain/Estado.java
+/home/michel/Dropbox/Semestre5/ProgramacaoVisual/projetos/Sistema2/src/main/java/br/edu/ifpr/bsi/sistema/dao/GenericDAO.java
+/home/michel/Dropbox/Semestre5/ProgramacaoVisual/projetos/Sistema2/src/main/java/br/edu/ifpr/bsi/sistema/util/HibernateUtil.java
